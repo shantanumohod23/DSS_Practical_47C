@@ -17,7 +17,7 @@ This repository contains practical implementations of various data science conce
 ### Clone the Repository
 ```bash
 git clone https://github.com/shantanumohod23/DSS_Practical_47C.git
-cd your-repo-name
+cd DSS_Practical_47C
 ```
 
 ### Install Dependencies
